@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tilanis
+- 👀 I’m interested in DevOps, backend development and functional programming
+- 🌱 I’m currently learning Flux, Python and Prometheus
+- 🎮 My hobbies are video games, cooking and biking
